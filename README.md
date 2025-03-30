@@ -1,6 +1,6 @@
 # Richard Lourette
 
-rlourette@email.com  |  (555) 123-4567  |  Rochester, New York 
+rlourette@email.com  |  (585) 953-5309  |  Rochester, New York 
 
 ## Summary
 
