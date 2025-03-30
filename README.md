@@ -13,7 +13,7 @@ Accomplished Engineering Leader with 30+ years of experience in embedded systems
 | • C/C++   | • Visual Studio   | • Linux           | • DSP algorithms  |
 | • Python  | • MATLAB          | • RTOS (RTEMs)    | • RF Engineering  |
 | • C#      | • Git             | • Embedded Linux  | • System architecture |
-| • MATLAB/Octave | • Anaconda/NumPy | • VxWorks     | • Hardware design |
+| • MATLAB/Octave | • Anaconda/NumPy | • Nucleus RTOS | • Hardware design |
 | • ARM Assembly | • Google Test | • FreeRTOS | • Multi-threading |
 | | • pytest | | • FPGA integration |
 | | • NASA cFS | | • AI-powered testing |
