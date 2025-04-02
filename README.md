@@ -27,7 +27,7 @@ Accomplished Engineering Leader with 30+ years of experience in embedded systems
 2022 - Present | Rochester, NY
 
 ***Embedded Software Consulting (10/2023 to Present)***
-- Led Embedded Linux C++ development for GPS receiver at Topcon Positioning Systems on an embedded ARM A9 TI CPU
+- Led Development of major Linux C++ subsystems for a new GPS receiver at Topcon Positioning Systems running an embedded ARM A9 TI CPU
 - Created major subsystems using Python for network-based testing and embedded testing frameworks
 - Wrote over 150,000 lines of C++ code, including test code using Python, pytest, and Google Test frameworks
 - Implemented AI-powered white box testing strategies to analyze source code and generate comprehensive test plans
