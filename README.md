@@ -1,129 +1,98 @@
 # Richard Lourette
 
-rlourette@email.com  |  (585) 953-5309  |  Rochester/Oswego, New York 
+**Principal Embedded Software Engineer | System Architect | Technical Leader**
 
-## Summary
+📧 [rlourette@gmail.com](mailto:rlourette@gmail.com) | 📱 585.953.5309 | 📍 Rochester/Oswego, New York
 
-Accomplished Engineering Leader with 30+ years of experience in embedded systems, firmware architecture, and technical leadership. Expertise in developing advanced solutions for aerospace, consumer electronics, and IoT applications. Proven track record in leading cross-functional teams, architecting complex systems, and delivering innovative products from concept to market.
+---
 
-## Skills
+## 📄 Resume
+**[Download Resume (PDF)](Richard_Lourette_Principal_Embedded_Software_Engineer.pdf)** | **[Download Resume (DOCX)](Richard_Lourette_Principal_Embedded_Software_Engineer.docx)** | **[View Markdown Source](Richard_Lourette_Principal_Embedded_Software_Engineer.md)**
 
-| Languages | Tools & Frameworks | Operating Systems | Additional Skills |
-|-----------|-------------------|-------------------|-------------------|
-| • C/C++   | • Visual Studio   | • Linux           | • DSP algorithms  |
-| • Python  | • MATLAB          | • RTOS (RTEMs)    | • RF Engineering  |
-| • C#      | • Git             | • Embedded Linux  | • System architecture |
-| • MATLAB/Octave | • Anaconda/NumPy | • Nucleus RTOS | • Hardware design |
-| • ARM Assembly | • Google Test | • FreeRTOS | • Multi-threading |
-| | • pytest | | • FPGA integration |
-| | • NASA cFS | | • AI-powered testing |
+---
 
-**SECURITY CLEARANCE**
-• DOD Secret (Past)  • SSBI for SCI access (Past)
+## 👨‍💻 About Me
 
-## Experience
+I'm a Principal Embedded Software Engineer with over 30 years of experience architecting, developing, and optimizing embedded software solutions for mission-critical systems. My career spans diverse industries including aerospace, defense, medical devices, automotive, and IoT, where I've consistently delivered innovative embedded systems that solve complex technical challenges.
 
-**RL Tech Solutions LLC** | **President & CTO**
-2022 - Present | Rochester, NY
+### 🔬 Technical Expertise
 
-***Embedded Software Consulting (10/2023 to Present)***
-- Led Development of major Linux C++ subsystems for a new GPS receiver at Topcon Positioning Systems running an embedded ARM A9 TI CPU
-- Created major subsystems using Python for network-based testing and embedded testing frameworks
-- Wrote over 150,000 lines of C++ code, including test code using Python, pytest, and Google Test frameworks
-- Implemented AI-powered white box testing strategies to analyze source code and generate comprehensive test plans
+My deep technical expertise centers on **C/C++ development** for resource-constrained embedded environments, with particular strength in:
 
-***Aerospace Consulting -- Chief Engineer (10/2022 - 12/2023)***
-- Designed spacecraft payload aligned with prime contractor requirements, focusing on science data processing
-- Integrated five rad-hard MCUs controlled via SpaceWire to manage all aspects of the payload network
-- Formulated software architecture using NASA's Core Flight System (cFS) framework on RTEMs
-- Authored technical volume of a proposal, securing an eight-figure business deal
+- **Embedded Systems Architecture** - Spacecraft payload processors, GNSS receivers, industrial IoT devices
+- **Real-Time Operating Systems** - Embedded Linux, RTEMs, FreeRTOS, Nucleus/Nucleus++ RTOS
+- **Performance Optimization** - CPU profiling, memory optimization, power management for battery-powered devices
+- **Hardware Integration** - ARM Cortex processors, TI DSPs, FPGA programming, sensor integration
+- **Communication Protocols** - SpaceWire, I2C, SPI, TCP/UDP, BLE, NFC, RESTful interfaces
 
-**Panasonic Industrial Internet of Things Division** | **Engineering Group Manager**
-2021 - 2022 | Rochester, NY
+### 🚀 Career Highlights
 
-- Led technology and product development for Panasonic's Industrial IoT devices in the Logiscend system
-- Directed teams across RF Engineering, radio protocol design, antenna design, mesh networks, and firmware
-- Successfully launched a new product line and resolved critical radio protocol issues before product launch
-- Led resolution of communication issues in a 2000-product customer installation during the global pandemic
+**Current Focus:** As President & CTO of RL Tech Solutions LLC, I provide specialized embedded software consulting for cutting-edge technology companies:
 
-**Tokenize Inc.** | **VP Engineering**
-2015 - 2021 | Rochester, NY
+- **Topcon Positioning Systems (2023-2025)** - Led development of major Linux C++ subsystems for next-generation GNSS receivers, delivering 150,000+ lines of production code with comprehensive testing frameworks
+- **D3/L3Harris Aerospace (2022-2023)** - Designed complex spacecraft payload systems integrating multiple radiation-hardened MCUs via SpaceWire communication
 
-***Token (Creator of Token)***
-- Led new product investigation for biometric ring with NFC capabilities
-- Selected technology components and established partnerships with financial partners and manufacturers
-- Designed Token electronics, enclosure, electrical packaging, wireless charging, and manufacturing process
-- Developed tools including real-time visualization for capacitive sensing fingerprint scanner
-- Managed power usage optimization throughout all operations of the ring
+**Previous Leadership Roles:**
+- **Panasonic Industrial IoT Division** - Engineering Group Manager directing cross-functional teams across RF engineering, protocol design, and embedded firmware
+- **Tokenize Inc.** - VP Engineering leading R&D for biometric wearable devices with ultra-low-power embedded electronics
+- **L3Harris Geospatial Systems** - Chief Scientist/Principal Investigator architecting advanced payload processing systems for defense applications
+- **Eastman Kodak Company** - Chief Firmware Architect leading international firmware development teams for consumer electronics
 
-***Case Wallet (Credit Card Sized BitCoin Wallet)***
-- Restored successful production from 100% failure rate to 100% yield in two months
-- Directed experiments to determine root cause of GSM Modem RF issues and redesigned the antenna
+### 🏆 Notable Achievements
 
-**(ITT/Exelis/Harris) Geospatial Systems** | **Chief Scientist/Principal Investigator**
-2002 - 2015 | Rochester, NY
+- **20+ US Patents** - Innovative solutions in embedded systems, signal processing, and hardware integration
+- **Mission-Critical Systems** - Delivered safety-critical embedded software for aerospace, defense, and medical applications
+- **Performance Leadership** - Achieved 40% performance improvements through systematic optimization techniques
+- **Process Innovation** - Transformed testing processes from manual to fully automated, reducing cycles from weeks to days
+- **Team Development** - Successfully managed and mentored 13+ engineers across multiple technical disciplines
 
-***Space Telescope Wave-front Correction***
-- Researched digital micro-mirror array use, computing piston tip and tilt values for each array element
-- Developed frequency domain processing with Anaconda/NumPy
+### 🛡️ Security Clearances
+- Previously held **DoD Top Secret Clearance**
+- Completed Single Scope Background Investigation (SSBI) for **Sensitive Compartmented Information (SCI)** access
+- Available for security clearance reinstatement
 
-***GPS-III Satellite Program***
-- Served as lead architect for test set development for payload and sub-assemblies
-- Developed L1C-band transmitter waveform models (MATLAB and C++) and receiver demodulation tests
-- Developed test instrument interface software using Visual Studio .Net framework with C# and C++
+### 🎯 Leadership Philosophy
 
-***Wide Area Airborne Surveillance (WAAS) Systems***
-- Architected onboard payload processing electronics for ITT's Blue-Heron Sensor suite
-- Developed electronic payload architecture concepts for visual and infrared systems including Gorgon-Stare
-- Led architecture and served as COTR for the first WAAS on-board payload processor
+My leadership style is **hands-on and technically engaged**. I believe technical leaders must be able to work through problems at any level to effectively guide their teams and make data-driven decisions. Whether architecting spacecraft payload processors or optimizing embedded Linux subsystems, I maintain direct technical involvement while providing strategic direction.
 
-***Advanced Geospatial Processing System***
-- Conceived and architected a 7-slot high altitude VPX supercomputing cluster processor
-- Led hardware development of VPX Quad XEON processor with integrated 10G Ethernet switch
-- Directed suppliers in component development and selected distributed file system architecture
+I challenge my staff but won't let them fail. When team members encounter complex challenges, I guide them with questions that help them discover solutions while building their technical confidence and problem-solving skills.
 
-**Eastman Kodak Company** | **Chief Firmware Architect**
-1995 - 2002 | Rochester, NY
+### 🌟 What Drives Me
 
-***Hybrid (Digital/Film) Consumer Camera (5/2001–11/2002)***
-- Led firmware engineering team for an international camera platform development
-- Managed development tools, licensed software components, and contract negotiations
-- Developed requirements, architecture, software framework, and image processing systems
+I'm passionate about creating technology that makes a meaningful impact. From developing medical device firmware for clinical blood analyzers early in my career to designing space-qualified software systems, I'm motivated by the opportunity to solve complex technical challenges that improve lives and push the boundaries of what's possible.
 
-***Digital Camera Research and Development (12/2000 – 5/2001)***
-- Integrated new megapixel sensor and BlueTooth wireless capability into Kodak MC3 digital camera
+My diverse industry experience—spanning medical devices, aerospace, defense, consumer electronics, and IoT—gives me unique insight into building robust embedded systems that meet the highest standards for reliability, performance, and safety.
 
-***MC3 Personal Multimedia Device (7/1999 – 12/2000)***
-- Technical lead for team developing consumer digital camera with integrated MP3 player
-- Created C++ architectural framework and designed application and image capture systems
-- Co-architected USB device driver and PIMA 15740 application layer
+### 🔧 Current Interests
 
-***Digital Photo Finishing—Three Color Laser Printer (4/1997 – 7/1999)***
-- Co-designed high-speed marking engine image data path architecture scaling to 300 images/minute
-- Developed technology to digitally compensate for scanning laser beam nonlinear velocity variations
-- Directed object-oriented software architecture and managed technical relations with European OEM
+- **Remote Embedded Development** - Advancing practices for distributed embedded systems teams
+- **Edge AI Integration** - Exploring machine learning applications in resource-constrained environments
+- **Space Technology** - Continuing involvement in spacecraft and satellite system development
+- **Open Source Contributions** - Sharing knowledge and tools with the embedded systems community
 
-***Cygnus Camera (9/1995 – 4/1997)***
-- Co-developed business relationships with technology suppliers for hybrid camera
-- Developed digital camera's image processing architecture and low-level CCD capture algorithms
-- Granted six patents for camera technology innovations
+---
 
-**Prior Positions at Eastman Kodak Company**
-1984 - 1995 | Rochester, NY
-- Senior Software Engineer (1990-1995)
-- Supervising Software Engineer (1988-1990)
-- Software Engineer (1984-1988)
+## 📚 Education
 
-## Education
+**Bachelor of Science in Electrical Engineering**  
+University of Dayton | Dayton, Ohio
 
-**Bachelor of Science** in Electrical Engineering  
-University of Dayton | Dayton, OH
+---
 
-## Patents
+## 🤝 Let's Connect
 
-Awarded 20 US patents plus additional foreign patents.
+I'm always interested in discussing:
+- Challenging embedded systems projects
+- Technical architecture and system design
+- Team leadership and mentorship in engineering
+- Innovation in aerospace, defense, and emerging technologies
 
-## Publications
+**Available for remote consulting and full-time opportunities as a Principal/Staff Embedded Software Engineer.**
 
-"Advanced Signal Processing Techniques for Embedded Systems" - IEEE Aerospace Conference, 2018
-https://ieeexplore.ieee.org/document/8453619
+---
+
+*"Technical leaders must be able to work through problems at any level to effectively guide their teams and make data-driven decisions."*
+
+---
+
+**Note:** Markdown converted to DOCX by [https://mconverter.eu/convert/markdown/docx/](https://mconverter.eu/convert/markdown/docx/)
