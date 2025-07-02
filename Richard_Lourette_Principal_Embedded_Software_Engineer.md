@@ -19,7 +19,7 @@ Principal Embedded Software Engineer with 30+ years of experience architecting, 
 **Performance Tools:** perf, Valgrind, Flame Graphs, Memory Profilers, Static Analysis Tools  
 **Communication Protocols:** SpaceWire, I2C, SPI, UART, CAN Bus, Ethernet, TCP/UDP, RESTful APIs  
 **Testing Frameworks:** Google Test, Unity, Pytest, Hardware-in-the-Loop Testing, Automated Testing  
-**Hardware Integration:** FPGA Programming, PCB Design Collaboration, Signal Processing, Sensor Integration  
+**Hardware Integration:** FPGA, PCB Design Collaboration, Signal Processing, Sensor Integration  
 **Methodologies:** Agile Development, TDD, Code Review, Requirements Analysis, System Architecture Design
 
 ## PROFESSIONAL EXPERIENCE
@@ -48,7 +48,7 @@ Principal Embedded Software Engineer with 30+ years of experience architecting, 
 **February 2021 – October 2022 | Rochester, NY**
 - Managed cross-functional engineering teams spanning RF Engineering, protocol design, antenna development, mesh networking, and embedded firmware
 - Directed development of industrial IoT devices with integrated RESTful interfaces for enterprise system integration
-- Resolved critical communication protocol issues for 2000+ device customer deployment during COVID-19 constraints
+- Resolved critical RF communication protocol issues for 2000+ device customer deployment during COVID-19 constraints
 - Transformed testing processes from manual to fully automated, reducing test cycle time from weeks to 3 days
 - Led technology roadmap development for next-generation industrial IoT product portfolio
 
@@ -65,7 +65,6 @@ Principal Embedded Software Engineer with 30+ years of experience architecting, 
 - Served as lead architect for GPS-III satellite program test equipment, defining system requirements and FPGA-based hardware architecture
 - Designed onboard payload processing electronics for Wide Area Airborne Surveillance (WAAS) systems
 - Led development of 7-slot high-altitude VPX supercomputing cluster for Advanced Geospatial Processing applications
-- Implemented distributed fault-tolerant processor communications middleware for mission-critical defense systems
 - Architected electronic payload systems for visual and infrared sensor platforms
 
 ### EASTMAN KODAK COMPANY | Chief Firmware Architect
