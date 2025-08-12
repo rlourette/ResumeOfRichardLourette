@@ -20,7 +20,7 @@ D3 Embedded - [mmcnulty@d3embedded.com](mailto:mmcnulty@d3embedded.com) - 585-47
 585-269-7300 (c) - [roland.maier@l3harris.com](mailto:roland.maier@l3harris.com)
 
 **Wendy Spurbeck** - Chief Systems Engineer - L3 Harris  
-720.272.8860 (c) - [Wendy.Spurbeck@L3Harris.com](mailto:Wendy.Spurbeck@L3Harris.com)
+720.272.8860 (c) - [Wendy.Spurbeck@L3Harris.com](mailto:wspurbeck@gmail.com)
 
 **Melany Shapiro** | Tokenize, Inc., CEO  
 (585) 322-3357 (c) - [melanie.ciufo@gmail.com](mailto:melanie.ciufo@gmail.com)
