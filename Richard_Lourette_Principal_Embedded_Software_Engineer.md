@@ -8,11 +8,11 @@
 
 Principal Embedded Software Engineer with 30+ years of experience architecting, developing, and optimizing embedded software solutions for mission-critical systems. Expert in C/C++ development, embedded Linux, RTOS, and bare-metal programming with proven leadership in technical architecture and team mentorship. Demonstrated success delivering scalable embedded systems for aerospace, defense, automotive, and IoT applications with emphasis on performance optimization and safety-critical requirements.
 
-**Core Competencies:** Embedded Systems Architecture | C/C++ Development | Real-Time Systems | Embedded Linux | RTOS Implementation | Hardware-Software Integration | Performance Optimization | Technical Leadership
+**Core Competencies:** Embedded Systems Architecture | C/C++ Development | Python Development | JavaScript Development | Real-Time Systems | Embedded Linux | RTOS Implementation | Hardware-Software Integration | Performance Optimization | Technical Leadership
 
 ## TECHNICAL EXPERTISE
 
-**Programming Languages:** C/C++ (30+ years), Python, Assembly Language, Shell Scripting  
+**Programming Languages:** C/C++ (30+ years), Java, HTML/CSS, Forth, Assembly Language, Shell Scripting  
 **Embedded Platforms:** ARM Cortex-A/M/R, TI ARM A9, DSP processors, 8-bit/16-bit/32-bit microcontrollers  
 **Operating Systems:** Embedded Linux, RTEMs RTOS, FreeRTOS, Nucleus/Nucleus++ RTOS, Bare Metal Programming  
 **Development Tools:** GCC Toolchain, GDB, JTAG Debuggers, Git, CI/CD Pipelines, Jenkins, Docker  
@@ -98,6 +98,7 @@ University of Dayton | Dayton, Ohio
 
 ## ADDITIONAL QUALIFICATIONS
 
+- **Amateur Radio License:** FCC Amateur Extra Class license holder (AB2MD)
 - **Remote Work Experience:** 5+ years of successful remote collaboration and team leadership
 - **Consulting Expertise:** Proven track record as technical consultant for Fortune 500 companies
 - **Industry Recognition:** Subject matter expert in embedded systems with 30+ years of deep technical expertise
