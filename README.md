@@ -17,7 +17,7 @@ I'm a Principal Embedded Software Engineer with over 30 years of experience arch
 
 ### 🔬 Technical Expertise
 
-My deep technical expertise centers on **C/C++ development** for resource-constrained embedded environments, with particular strength in:
+My deep technical expertise centers on **C/C++ development**, **Python development**, and **JavaScript development** for resource-constrained embedded environments, with additional proficiency in **Java, HTML/CSS, Forth,** and **Assembly Language**, with particular strength in:
 
 - **Embedded Systems Architecture** - Spacecraft payload processors, GNSS receivers, industrial IoT devices
 - **Real-Time Operating Systems** - Embedded Linux, RTEMs, FreeRTOS, Nucleus/Nucleus++ RTOS
@@ -50,6 +50,9 @@ My deep technical expertise centers on **C/C++ development** for resource-constr
 - Previously held **DoD Top Secret Clearance**
 - Completed Single Scope Background Investigation (SSBI) for **Sensitive Compartmented Information (SCI)** access
 - Available for security clearance reinstatement
+
+### 📻 Professional Credentials
+- **FCC Amateur Extra Class License Holder (AB2MD)** - Highest level amateur radio license demonstrating advanced RF and electronics expertise
 
 ### 🎯 Leadership Philosophy
 
