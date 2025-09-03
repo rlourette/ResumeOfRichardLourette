@@ -53,7 +53,7 @@ Principal Payload Architect and Embedded Computing Systems Design Engineer with 
 - **Test Methodology:** Transformed manual testing processes to automated frameworks, reducing test cycles from weeks to 3 days
 
 ### L3HARRIS GEOSPATIAL SYSTEMS | Chief Scientist/Principal Investigator
-**2002 – 2015 | Rochester, NY**
+**May 2002 – September 2015 | Rochester, NY**
 
 - **GPS-III Program:** Served as lead architect for GPS-III satellite program test equipment, defining system requirements and FPGA-based hardware architecture
 - **High-Performance Embedded Computing:** Principal Investigator for onboard payload processing electronics for Wide Area Airborne Surveillance (WAAS) systems
@@ -62,7 +62,7 @@ Principal Payload Architect and Embedded Computing Systems Design Engineer with 
 - **Algorithm Development:** Developed advanced wavefront correction algorithms using Python for space-based optical systems
 
 ### TOKENIZE INC. | Vice President of Engineering
-**2015 – 2021 | Rochester, NY**
+**September 2015 – February 2021 | Rochester, NY**
 
 - **Ultra-Low Power Design:** Designed embedded electronics meeting strict battery life requirements for wearable applications
 - **Hardware-Software Integration:** Collaborated with hardware teams on power optimization and communication interface design
