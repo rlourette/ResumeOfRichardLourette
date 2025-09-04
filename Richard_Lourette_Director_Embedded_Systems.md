@@ -37,7 +37,7 @@ Providing strategic technical leadership and embedded systems expertise to high-
 - **Architecture Design:** Created distributed spacecraft payload systems integrating radiation-hardened MCUs
 
 ### **PANASONIC CORPORATION**
-**Engineering Group Manager - Industrial IoT Division** (Jan 2020 - Oct 2022)
+**Engineering Group Manager - Industrial IoT Division** (Feb 2021 - Oct 2022)
 
 Led cross-functional teams developing connected IoT platforms, managing firmware engineers, RF engineer, QA team, electrical designer, and mechanical/manufacturing engineer while interfacing with global subcontractors.
 
@@ -56,7 +56,7 @@ Led cross-functional teams developing connected IoT platforms, managing firmware
 - Drove continuous improvement in power efficiency and system performance
 
 ### **TOKENIZE INC. / CASE WALLET** | New York, NY
-**VP Engineering - Wearable Technology** (Apr 2014 - Jan 2020)
+**VP Engineering - Wearable Technology** (Sep 2015 - Feb 2021)
 
 Led engineering teams developing ultra-low-power embedded systems for biometric wearable devices, presenting to board members and venture capitalists for funding rounds.
 
@@ -68,7 +68,7 @@ Led engineering teams developing ultra-low-power embedded systems for biometric 
 - **Quality Standards:** Led PCI-compliant certification using FIME certification process
 
 ### **L3HARRIS CORPORATION** | Rochester, NY
-**Principal Investigator / Chief Scientist** (May 2002 - Apr 2015)
+**Principal Investigator / Chief Scientist** (May 2002 - Sep 2015)
 
 Led research initiatives and technology development teams while maintaining hands-on technical involvement in spacecraft payload processor development.
 
@@ -79,7 +79,7 @@ Led research initiatives and technology development teams while maintaining hand
 - **Mentorship:** Developed junior engineers' technical and professional skills
 
 ### **EASTMAN KODAK COMPANY** | Rochester, NY
-**Chief Firmware Architect** (Aug 1994 - May 2002)
+**Chief Firmware Architect** (1995 - 2002)
 
 Led international firmware development teams creating embedded systems for consumer electronics and imaging devices.
 

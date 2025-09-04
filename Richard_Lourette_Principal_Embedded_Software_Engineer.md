@@ -53,14 +53,14 @@ Principal Embedded Software Engineer with 30+ years of experience architecting, 
 - Led technology roadmap development for next-generation industrial IoT product portfolio
 
 ### TOKENIZE INC. | Vice President of Engineering
-**2015 – 2021 | Rochester, NY**
+**September 2015 – February 2021 | Rochester, NY**
 - Spearheaded R&D for biometric wearable devices incorporating NFC technology and capacitive fingerprint scanning
 - Designed ultra-low-power embedded electronics meeting strict battery life requirements for wearable applications
 - Developed real-time signal processing algorithms and visualization tools for capacitive sensing systems
 - Collaborated with hardware teams on power optimization strategies for resource-constrained wearable devices
 
 ### L3HARRIS GEOSPATIAL SYSTEMS | Chief Scientist/Principal Investigator
-**2002 – 2015 | Rochester, NY**
+**May 2002 – September 2015 | Rochester, NY**
 - Developed advanced in-situ telescope wavefront correction algorithms using Python for space-based optical systems
 - Served as lead architect for GPS-III satellite program test equipment, defining system requirements and FPGA-based hardware architecture
 - Designed onboard payload processing electronics for Wide Area Airborne Surveillance (WAAS) systems

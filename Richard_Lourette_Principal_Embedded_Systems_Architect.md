@@ -31,6 +31,15 @@ Leading embedded systems architecture consulting for cutting-edge technology com
 - Established embedded development best practices including coding standards, testing frameworks, and CI/CD pipelines
 - Led architecture reviews ensuring compliance with industry standards and regulatory requirements
 
+**D3 Engineering/L3Harris Aerospace - Chief Engineer Consultant** (Oct 2022 - Dec 2023)
+- **Spacecraft Payload Architecture:** Architected complex spacecraft payload systems integrating 5 radiation-hardened MCUs via SpaceWire/SpaceFibre communication for distributed high-performance embedded computing applications
+- **High-Performance Embedded Computing:** Designed heterogeneous CPU/FPGA computing architectures running NASA Core Flight System (cFS) framework on RTEMs RTOS for onboard processing
+- **CCSDS C&DH Systems:** Implemented CCSDS Command & Data Handling protocols and high-speed downlink architectures for spacecraft payload data processing
+- **Software Architecture:** Implemented microservices architecture with fault-tolerant design principles for enhanced reliability and maintainability in space environments
+- **Requirements Analysis:** Decomposed high-level satellite system requirements into detailed hardware, software, and firmware specifications
+- **Radiation Hardening:** Implemented error correction codes, redundancy schemes, and radiation mitigation techniques for space-qualified embedded systems
+- **Business Impact:** Contributed to winning $50M+ aerospace contract through technical architecture presentation and system design including multi-Terrabyte data recorder architecture for mission data management
+
 **Topcon Positioning Systems - Lead Architect** (Oct 2023 - Present)
 - Architected major subsystems for next-generation GNSS receivers on embedded ARM platforms
 - Designed scalable software architecture delivering 150,000+ lines of production C++ code
@@ -60,7 +69,7 @@ Led engineering teams developing ultra-low-power embedded systems for biometric 
 - Guided security architecture implementation for PCI-compliant payment systems
 
 ### **L3HARRIS CORPORATION** | Rochester, NY
-**Chief Scientist / Principal Investigator** (May 2007 - Apr 2014)
+**Chief Scientist / Principal Investigator** (May 2002 - Sep 2015)
 
 Architected complex embedded systems for aerospace and defense applications, including spacecraft payload processors and safety-critical systems.
 
@@ -72,7 +81,7 @@ Architected complex embedded systems for aerospace and defense applications, inc
 - Mentored junior engineers on embedded systems best practices
 
 ### **EASTMAN KODAK COMPANY** | Rochester, NY
-**Chief Firmware Architect** (Aug 1994 - May 2007)
+**Chief Firmware Architect** (Aug 1994 - May 2002)
 
 Led international firmware development teams creating embedded systems for consumer electronics and imaging devices.
 

@@ -47,7 +47,7 @@ Principal Firmware Engineer with 30+ years of experience developing embedded sys
 - **Strategic Planning:** Defined and implemented embedded systems technology roadmap for next-generation industrial IoT product portfolio
 
 ### TOKENIZE INC. | Vice President of Engineering
-**2015 – 2021 | Rochester, NY**
+**September 2015 – February 2021 | Rochester, NY**
 
 - **Ultra-Low Power Architecture:** Led R&D architecture and technical strategy for biometric wearable devices with strict battery life requirements, implementing innovative power management strategies
 - **Advanced Sensor Systems:** Architected and directed development of real-time signal processing algorithms for capacitive fingerprint scanning and biometric sensor systems
@@ -58,7 +58,7 @@ Principal Firmware Engineer with 30+ years of experience developing embedded sys
 - **Performance Engineering:** Led firmware optimization initiatives for real-time performance while meeting strict power consumption constraints
 
 ### L3HARRIS GEOSPATIAL SYSTEMS | Principal Investigator/Chief Scientist
-**2002 – 2015 | Rochester, NY**
+**May 2002 – September 2015 | Rochester, NY**
 
 - **Embedded Algorithm Development:** Developed advanced signal processing algorithms using Python and C++ for real-time embedded systems
 - **High-Performance Computing:** Led development of distributed embedded computing systems with real-time data processing requirements
