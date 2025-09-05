@@ -28,6 +28,9 @@ D3 Embedded - [mmcnulty@d3embedded.com](mailto:mmcnulty@d3embedded.com) - 585-47
 **Chuck Moon** | D3 Engineering | Colleague (attached)  
 (585) 414-6291 (c) - [chuckmoon71@gmail.com](mailto:chuckmoon71@gmail.com)
 
+**Jim Mazzolla** | Embedded Reps of America LLC | Owner
+(610)-368-5491 (c) - [jim@embeddedreps.com](mailto:jim@embeddedreps.com)
+
 ---
 
 ## Detailed Recommendations
