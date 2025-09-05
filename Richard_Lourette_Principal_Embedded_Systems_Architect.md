@@ -169,10 +169,15 @@ Leading embedded systems architecture consulting for cutting-edge technology com
 
 ## PATENTS & PUBLICATIONS
 
-* 20+ US Patents in embedded systems, signal processing, and IoT architectures
-* Published articles on modern C++ for embedded systems and functional safety
-* White paper: "C++26 Reflection - Revolutionizing Memory-Constrained Embedded Systems"
-* Technical article: "Functional Safety Standards Hierarchy for ProfiSafe Implementation"
+* 20+ US Patents in embedded systems, signal processing, and IoT architectures.
+
+* Co-authored paper titled ["Real-time airborne data management system"](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7307/73070Q/Real-time-airborne-data-management-system/10.1117/12.828236.short).
+
+* Published articles on modern C++ for embedded systems and functional safety.
+
+* White paper: "C++26 Reflection - Revolutionizing Memory-Constrained Embedded Systems".
+
+* Technical article: "Functional Safety Standards Hierarchy for ProfiSafe Implementation".
 
 ---
 
