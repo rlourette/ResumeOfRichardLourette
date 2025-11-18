@@ -1,3 +1,6 @@
+<style>
+@page { size: letter portrait; }
+</style>
 # RICHARD LOURETTE
 **Principal Embedded Software Engineer | Consulting CTO**
 
