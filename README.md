@@ -1,3 +1,6 @@
+<style>
+@page { size: letter portrait; }
+</style>
 # RICHARD LOURETTE
 **Principal Embedded Software Engineer | Consulting CTO**
 
@@ -12,13 +15,14 @@ Expert in **C/C++ development**, **embedded Linux**, **RTOS**, and **bare-metal 
 
 Recognized innovator with **20+ issued patents** in embedded systems and image processing. Trusted for designing and deploying ultra-reliable, fail-operational systems that perform flawlessly in the most demanding and regulated environments where failure is not an option. Excel at hardware-software co-design, leading rigorous technical reviews, and championing modern CI/CD pipelines, static analysis, and high-assurance development practices.
 
-**Core Competencies:** Embedded Systems Architecture · C/C++ · Python · Real-Time Systems · Embedded Linux · RTOS · Hardware-Software Integration · Performance Optimization · Fault-Tolerant Design · Technical Leadership · Consulting
+**Core Competencies:** Embedded Systems Architecture · C/C++ · Python · C# · Real-Time Systems · Embedded Linux · RTOS · Hardware-Software Integration · Performance Optimization · Fault-Tolerant Design · Technical Leadership · Consulting
 
 ## TECHNICAL EXPERTISE
 
 **Programming Languages:** C/C++ (30+ years), Python, Java,  Assembly Language, Shell Scripting, HTML/CSS, Forth
 **Processor & SoC Architectures:**
 - ARM Cortex-A/M/R (including A53/A72 in Zynq UltraScale+ and Versal ACAP)
+- NVIDIA Carmel ARM v8.2 64-bit CPU
 - Zynq UltraScale+, Versal ACAP
 - TI ARM/DSP families
 - Radiation-hardened MCUs
