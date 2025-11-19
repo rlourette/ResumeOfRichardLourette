@@ -22,6 +22,7 @@ Recognized innovator with **20+ issued patents** in embedded systems and image p
 **Programming Languages:** C/C++ (30+ years), Python, Java,  Assembly Language, Shell Scripting, HTML/CSS, Forth
 **Processor & SoC Architectures:**
 - ARM Cortex-A/M/R (including A53/A72 in Zynq UltraScale+ and Versal ACAP)
+- NVIDIA Carmel ARM v8.2 64-bit CPU
 - Zynq UltraScale+, Versal ACAP
 - TI ARM/DSP families
 - Radiation-hardened MCUs
