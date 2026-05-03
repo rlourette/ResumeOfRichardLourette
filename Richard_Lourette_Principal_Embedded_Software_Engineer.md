@@ -6,43 +6,70 @@
 
 ## PROFESSIONAL SUMMARY
 
-Principal Embedded Software Engineer with 30+ years of experience architecting, developing, and optimizing embedded software solutions for mission-critical systems. Expert in C/C++ development, embedded Linux, RTOS, and bare-metal programming with proven leadership in technical architecture and team mentorship. Demonstrated success delivering scalable embedded systems for aerospace, defense, automotive, and IoT applications with emphasis on performance optimization and safety-critical requirements.
+Principal Embedded Software Engineer with 30+ years of experience architecting, developing, and optimizing embedded software solutions for mission-critical systems. Expert in C/C++ development, embedded Linux, RTOS, and bare-metal programming with proven leadership in technical architecture and team mentorship. Most recently led PTP/gPTP (IEEE 802.1AS) Grandmaster development at Point One Navigation, spanning STM32L4 MCU firmware, iMX8 embedded Linux host software, and PHC synchronization infrastructure, while driving a major re-architecture of the platform's services layer to improve modularity, testability, and firmware/host independence. Demonstrated success delivering scalable embedded systems for aerospace, defense, automotive, and IoT applications with emphasis on performance optimization and safety-critical requirements.
 
-**Core Competencies:** Embedded Systems Architecture | C/C++ Development | Python Development | JavaScript Development | Real-Time Systems | Embedded Linux | RTOS Implementation | Hardware-Software Integration | Performance Optimization | Technical Leadership
+**Core Competencies:** Embedded Systems Architecture · C/C++ · Python · C# · Real-Time Systems · Embedded Linux · RTOS · PTP/gPTP & Precision Timing · GNSS Integration · Hardware-Software Integration & Co-Design · Services Architecture · Performance Optimization · Fault-Tolerant Design · Technical Leadership · Consulting
 
 ## TECHNICAL EXPERTISE
 
-**Programming Languages:** C/C++ (30+ years), Java, HTML/CSS, Forth, Assembly Language, Shell Scripting  
-**Embedded Platforms:** ARM Cortex-A/M/R, TI ARM A9, DSP processors, 8-bit/16-bit/32-bit microcontrollers  
-**Operating Systems:** Embedded Linux, RTEMs RTOS, FreeRTOS, Nucleus/Nucleus++ RTOS, Bare Metal Programming  
-**Development Tools:** GCC Toolchain, GDB, JTAG Debuggers, Git, CI/CD Pipelines, Jenkins, Docker  
-**Performance Tools:** perf, Valgrind, Flame Graphs, Memory Profilers, Static Analysis Tools  
-**Communication Protocols:** SpaceWire, I2C, SPI, UART, CAN Bus, Ethernet, TCP/UDP, RESTful APIs  
-**Testing Frameworks:** Google Test, Unity, Pytest, Hardware-in-the-Loop Testing, Automated Testing  
-**Hardware Integration:** FPGA, PCB Design Collaboration, Signal Processing, Sensor Integration  
-**Methodologies:** Agile Development, TDD, Code Review, Requirements Analysis, System Architecture Design
+**Programming Languages:** C/C++ (30+ years), Python, C#, Java, Assembly Language, Shell Scripting, HTML/CSS, Forth
+
+**Embedded Platforms:** ARM Cortex-A/M/R, STM32L4 (Cortex-M4), iMX8, TI ARM A9, DSP processors, Zynq UltraScale+, Versal ACAP, 8/16/32-bit microcontrollers, Radiation-hardened MCUs
+
+**Operating Systems:** Embedded Linux, BalenaOS, FreeRTOS, RTEMs RTOS, Nucleus/Nucleus++ RTOS, Bare Metal Programming
+
+**Communications & Timing Protocols:** IEEE 802.1AS (gPTP), IEEE 1588 (PTP), SpaceWire, SpaceFibre, CAN/CAN-FD, I²C, SPI, UART, Ethernet, TCP/UDP, RESTful APIs
+
+**Development Tools:** GCC Toolchain, GDB, JTAG Debuggers, Git, CI/CD Pipelines, Jenkins, Docker (custom base images, cross-compilation in containers, CI pipeline integration, BalenaOS service deployment), Bazel
+
+**Performance & Validation Tools:** perf, Valgrind, Flame Graphs, Wireshark/tshark, AF_NETLINK, linuxptp/ptp4l, Static Analysis Tools
+
+**Testing Frameworks:** Google Test, Unity, Pytest, Hardware-in-the-Loop Testing, CI/CD-integrated test pipelines, Automated White-Box Testing
+
+**Hardware Integration:** FPGA/SoC co-design, PCB collaboration, PHC synchronization, 1PPS timing, containerized embedded service deployment via Docker and BalenaOS, signal processing, sensor fusion, power optimization
+
+**Methodologies:** Agile/Scrum, Test-Driven Development (TDD), code reviews, requirements analysis, system architecture, high-assurance practices
+
+**Key Domains:** Spacecraft flight software · GNSS receivers · PTP/gPTP timing systems · Real-time 3D imaging · Biometric wearables · Industrial IoT · Airborne surveillance · High-reliability & fail-operational systems
 
 ## PROFESSIONAL EXPERIENCE
+
+### POINT ONE NAVIGATION | Staff Embedded Firmware Engineer
+**January 2026 – Present | Remote**
+
+- Led PTP/gPTP (IEEE 802.1AS) Grandmaster support on the Atlas GPS/PTP timing platform, working across both STM32L4 MCU firmware (FreeRTOS C++) and embedded Linux host software (C++/Python, BalenaOS)
+- Implemented GNSS-disciplined PTP Hardware Clock (PHC) synchronization on the iMX8 Linux host, including 1PPS GPIO timestamping on the STM32 MCU, AF_NETLINK-based PHC watchdog recovery from link-bounce resets, and IEEE 802.1AS gPTP profile configuration via REST API
+- Driving a major re-architecture of the Atlas Services layer, transitioning Septentrio GNSS receiver initialization from MCU to host and introducing asynchronous command/response processing with a shared I/O worker model, improving modularity, testability, and the ability to evolve host and firmware independently
+- Refactored Septentrio GNSS receiver initialization with a robust six-phase sequence covering baud-rate auto-detection, RTCM escape handling, SBF stream configuration, and non-volatile config save
+- Built a PTP test bench using the Dart platform to calibrate and validate the Grandmaster design; developed custom validation tools alongside tshark/Wireshark to verify protocol correctness and timing accuracy on the wire
+- Contributed upstream BalenaOS pull requests for device tree customization to support Atlas hardware requirements
+- Established Linux cross-build infrastructure for the STM32 firmware and maintained Google Test-based CI test suites, enabling reliable automated validation across firmware and host software changes
 
 ### RL TECH SOLUTIONS LLC | President & Chief Technology Officer
 **October 2022 – Present | Rochester, NY**
 
+**D3/L3Harris Aerospace – Chief Engineer Consultant**  
+*Oct 2022 – Dec 2023; Oct 2024 – Present*
+- Designed spacecraft payload systems integrating 5 radiation-hardened MCUs via SpaceWire communication
+- Architected embedded software using NASA Core Flight System (cFS) on RTEMS RTOS
+- Implemented microservices architecture to enhance reliability, maintainability, and modularity of flight software
+- Led technical design reviews and mentored engineers on embedded systems and space-qualified software practices
+- Authored and presented gate review, contributing to award of eight-figure payload contract
+- Returned post-sabbatical to develop embedded software architecture for advanced real-time time-of-flight 3D imaging system
+
 **Topcon Positioning Systems – Senior Embedded Software Consultant**  
 *October 2023 – April 2025*
-- Architected and developed critical Linux C++ subsystems for next-generation GNSS receivers using embedded ARM A9 TI processors
-- Implemented high-performance multi-threaded applications optimized for battery-powered, resource-constrained embedded devices
-- Delivered 150,000+ lines of production C++ code with comprehensive test coverage using Python, pytest, and Google Test frameworks
-- Implemented advanced white box testing strategies with systematic source code analysis for comprehensive test plan generation
-- Achieved 40% performance improvement through CPU profiling using perf and flame graph analysis
-- Developed custom loopback filesystem and Python curses monitoring applications for real-time thread CPU utilization debugging
-- Established Git-based version control workflows and CI/CD pipelines following industry best practices
+- Architected and implemented Linux C++ subsystems for next-generation GNSS receivers on embedded ARM A9 TI processors
+- Built high-performance multi-threaded applications optimized for battery-powered, resource-constrained devices
+- Delivered 150,000+ lines of production C++ code with full test coverage using Python, pytest, and Google Test
+- Designed advanced white box testing strategies with systematic source analysis for comprehensive test plan generation
+- Improved system performance by 40% through CPU profiling with perf and flame graph analysis
+- Developed custom loopback filesystem and Python curses monitoring tools for real-time CPU/thread utilization debugging
+- Utilized modern Git workflows and CI/CD pipelines aligned with industry best practices to ensure high-quality, reliable software delivery
 
-**D3/L3Harris Aerospace – Chief Engineer Consultant**  
-*October 2022 – December 2023*
-- Designed complex spacecraft payload systems integrating 5 radiation-hardened MCUs via SpaceWire communication
-- Architected embedded software solutions based on NASA Core Flight System (cFS) framework running on RTEMs RTOS
-- Implemented microservices architecture with service-oriented design principles for enhanced reliability and maintainability
-- Led technical design reviews and provided mentorship on embedded systems best practices and space-qualified software development
+**Professional Sabbatical**
+*May 2025 – Sep 2025*
+- Focused on renewal and independent research, returning with published articles and refreshed technical perspective
 
 ### PANASONIC INDUSTRIAL IOT DIVISION | Engineering Group Manager
 **February 2021 – October 2022 | Rochester, NY**
@@ -78,12 +105,13 @@ Principal Embedded Software Engineer with 30+ years of experience architecting, 
 
 ## KEY ACHIEVEMENTS
 
-- **Patent Portfolio:** 20+ issued US patents plus international patents in embedded systems and signal processing
-- **Performance Optimization:** Achieved 40% performance improvements through systematic profiling and optimization
+- **Patent Portfolio:** 20+ issued US patents plus international patents in embedded systems and image/signal processing
+- **Performance Optimization:** Achieved 40% gains via systematic profiling and refactoring
 - **Team Leadership:** Successfully managed and mentored 13+ engineers across multiple disciplines
-- **Process Improvement:** Reduced testing cycles from weeks to days through automation implementation
-- **Mission-Critical Systems:** Delivered safety-critical embedded software for aerospace and defense applications
+- **Process Improvement:** Reduced verification cycles from weeks to days through automation implementation
+- **High-Reliability Systems:** Delivered fault-tolerant, mission-essential embedded software for aerospace and defense programs
 - **Technology Innovation:** Led adoption of emerging technologies in embedded systems across multiple industries
+- **Contract Win:** Secured contract totaling $50M+ through technical leadership, customer engagement, and architecture excellence
 
 ## EDUCATION
 
